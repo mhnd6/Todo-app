@@ -5,17 +5,17 @@
 <img src="https://github.com/mhnd6/Todo-app/blob/master/screenshots/image0.png" width="200">
 <img src="https://github.com/mhnd6/Todo-app/blob/master/screenshots/image0%20(2).png"  width="200">
 <img src="https://github.com/mhnd6/Todo-app/blob/master/screenshots/image0%20(1).png" width="200">
+<img src="https://github.com/mhnd6/Todo-app/blob/master/screenshots/image0%20(3).png" width="200">  
 
 ## Description
 > This is a simple Todos-app, Users can track their progress in each list and see what todo has been done or not, So they can add more than one Todo list and add tasks as much as they can. The lists will be stored in device storage using (SqlLite), That means once you delete the app all your lists will be deleted, this app contains several themes that the user can use.
 
-<img src="https://github.com/mhnd6/Todo-app/blob/master/screenshots/image0%20(3).png" width="200">  
 
 ## How to use it?
-> Press on the big add block to add a new list.
-> Hold press on the title to delete a list.
-> press the pencil button to edit the list name.
-> press on any task to toggle as done.
+> Press on the big add block to add a new list.<br/>
+> Hold press on the title to delete a list.<br/>
+> press the pencil button to edit the list name.<br/>
+> press on any task to toggle as done.<br/>
 > press on the garbage button beside the task to delete it
 
 ## Tools 
