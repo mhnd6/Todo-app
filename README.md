@@ -8,7 +8,7 @@
 <img src="https://github.com/mhnd6/Todo-app/blob/master/screenshots/image0%20(3).png" width="200">  
 
 ## Description
-> This is a simple Todos-app, Users can track their progress in each list and see what todo has been done or not, So they can add more than one Todo list and add tasks as much as they can. The lists will be stored in device storage using (SqlLite), That means once you delete the app all your lists will be deleted, this app contains several themes that the user can use.
+> This is a simple Todos-app, Users can track their progress in each list and see what todo has been done or not, So they can add more than one Todo list and add tasks as much as they can. The lists will be stored in device storage using (SqLite), That means once you delete the app all your lists will be deleted, this app contains several themes that the user can use.
 
 
 ## How to use it?
@@ -21,7 +21,7 @@
 ## Tools 
 > * JS (Prgramming language)
 > * React Native (JS framework)
-> * SqlLite (save lists and user settings)
+> * SqLite (save lists and user settings)
 
 ## Platforms 
 > IOS & Android
